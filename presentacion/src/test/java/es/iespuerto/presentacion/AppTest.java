@@ -1,4 +1,4 @@
-package es.iespuerto.presentacion1;
+package es.iespuerto.presentacion;
 
 import static org.junit.Assert.assertTrue;
 

@@ -89,6 +89,8 @@
 
   <modules>
     <module>presentacion</module>
+    <module>logica</module>
+    <module>Integracion</module>
   </modules>
   
 </project>
